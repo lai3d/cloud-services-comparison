@@ -21,3 +21,12 @@ Comparison of various cloud services across different cloud providers: AWS, Azur
 | Application Hosting                | Elastic Beanstalk                   | App Service                       | App Engine                        | Web Hosting                       | Cloud Base                        | CCE                               |
 | Monitoring                         | CloudWatch                          | Azure Monitor                     | Cloud Monitoring                  | CloudMonitor                      | Cloud Monitor                     | CES                               |
 | Archive Storage                    | Glacier                             | Archive Storage                   | Coldline Storage                  | Archive Storage                   | Cloud Archive Storage             | OBS Vault                         |
+
+
+# Prompt
+
+```bash
+Use a table to show the comparison of various cloud services across different cloud providers, aws/azure/google cloud/alibaba cloud/tencent cloud/huawei cloud.
+```
+
+Then you can let ChatGPT/claude.ai/Gemini to generate the corresponding readme file.
